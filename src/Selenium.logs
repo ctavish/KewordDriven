@@ -1,0 +1,23 @@
+21:39:35,771 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:20 - Oprning Website
+21:39:45,525 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:28 - Clicked Button
+21:39:48,741 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someone@someone.com
+21:39:51,830 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:28 - Clicked Button
+21:39:55,239 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:28 - Clicked Button
+21:39:58,354 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text Someone
+21:40:01,447 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text Someone
+21:40:04,572 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someone@someone.com
+21:40:07,699 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text password
+21:40:10,821 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:33 - Selected Value 1
+21:40:13,920 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:33 - Selected Value 1
+21:40:17,028 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:33 - Selected Value 1980
+21:40:20,160 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someone
+21:40:23,254 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someone
+21:40:26,365 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someocompany
+21:40:29,502 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someplace
+21:40:32,617 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someplace
+21:40:35,730 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text someplace
+21:40:38,835 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:33 - Selected Value 1
+21:40:41,935 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text 0
+21:40:45,118 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text 9966996699
+21:40:48,216 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text 9966996699
+21:40:51,313 DEBUG Demo.TestCaseRunner<strong>{1}</strong>:24 - Entering Text Jackets
